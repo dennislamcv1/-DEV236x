@@ -1,2 +1,2 @@
-# -DEV236x
-Introduction to Python: Absolute Beginner
+# DEV236x
+## Introduction to Python: Absolute Beginner
